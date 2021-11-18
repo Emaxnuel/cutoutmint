@@ -1,3 +1,4 @@
+np
 .container {
   min-height: 100vh;
   padding: 0 0.5rem;
@@ -112,6 +113,22 @@
   height: 1em;
   margin-left: 0.5rem;
 }
+
+/*
+.titulo{
+
+  font-family: tituloCutout;
+  font-size: 4rem;
+}
+
+.textoCutout{
+
+  font-family: textoCutout;
+  font-size: 1.5rem;
+  padding-right: 30px;
+
+}
+*/
 
 @media (max-width: 600px) {
   .grid {
