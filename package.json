@@ -16,11 +16,13 @@
     "web3": "^1.6.1"
   },
   "devDependencies": {
+    "@next/eslint-plugin-next": "^11.1.2",
     "@openzeppelin/contracts": "^4.3.2",
     "@truffle/contract": "^4.3.38",
     "@truffle/hdwallet-provider": "^1.5.1",
     "autoprefixer": "^10.3.7",
     "axios": "^0.20.0",
+    "babel-eslint": "^10.1.0",
     "dotenv": "^10.0.0",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",

@@ -6,8 +6,8 @@ import {
   nftaddress, nftmarketaddress
 } from "../config";
 
-import CutoutNFTFactory from '../build/contracts/CutoutNFTFactory.json';
-import CutoutMarket from '../build/contracts/CutoutMarket.json';
+import CutoutNFTFactory from '../abi/CutoutNFTFactory.json';
+import CutoutMarket from '../abi/CutoutMarket.json';
 
 
 import web3 from "web3";
